@@ -1,7 +1,7 @@
 import { motion } from "motion/react";
 import { useState, useEffect } from "react";
-import couplePhoto1 from "figma:asset/Screenshot 2026-02-06 224202.png";
-import couplePhoto2 from "figma:asset/Screenshot 2026-02-06 224202.png";
+import couplePhoto1 from "@/assets/Screenshot 2026-02-06 224202.png";
+import couplePhoto2 from "@/assets/Screenshot 2026-02-06 224202.png";
 
 export function RotatingPhotoDisplay() {
   const [rotation, setRotation] = useState(0);
