@@ -85,6 +85,11 @@
       "optional": true
     }
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dinesh04-prog/Aishwarya_Akshay.git"
+  },
+  "homepage": "https://dinesh04-prog.github.io/Aishwarya_Akshay/",
   "pnpm": {
     "overrides": {
       "vite": "7.3.1"
