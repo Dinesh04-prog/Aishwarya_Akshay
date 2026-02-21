@@ -81,6 +81,9 @@
     "react": {
       "optional": true
     },
+  "engines": {
+    "node": ">=22"
+  },
     "react-dom": {
       "optional": true
     }
